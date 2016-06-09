@@ -1,2 +1,4 @@
 # hello_world
-First github repository
+My First github repository
+
+I started learning ruby! 
